@@ -1,2 +1,3 @@
-# MLforSocialScience
+# Machine Learning for Social Science
+
 Debido a la gran cantidad de datos que se generan día a día, existe hoy en día la necesidad de  desarrollar técnicas de computación eficaces para procesar tal cantidad de información.  Actualmente, estas tecnologías se están aplicando  en una amplia gama de sectores, dentro y fuera del mundo académico, ya que se puede extraer conocimiento  valioso. Este taller está dirigido a estudiantes que tengan interés en introducirse de forma práctica en la  metodología de análisis de datos. Aprenderemos a analizar una base de datos real sobre detenciones en  Estados Unidos, y discutiremos sobre las ventajas y los inconvenientes de los algoritmos que nos gobiernan  hoy en día.
